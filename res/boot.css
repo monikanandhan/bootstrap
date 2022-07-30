@@ -1,0 +1,8 @@
+.bg-container{
+    background-image: url("download.jpg");
+    height:100vh;
+    background-size: cover;
+}
+.card1{
+    background-color: aqua;
+}

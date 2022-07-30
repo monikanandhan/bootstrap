@@ -1,0 +1,86 @@
+
+
+.bg-container{
+    background-image: url("home.jpg");
+    height:100vh;
+    width:100vw;
+    background-size:cover;
+    padding:200px;
+}
+.card1{
+    text-align: center;
+    margin-left:300px;
+    background-color: aliceblue;
+    height:45vh;
+    width:25vw;
+    border-radius: 30px; 
+}
+.btn{
+  text-align: center;
+  height: 50px;
+ 
+  width:75px;
+  border-radius: 10px;
+  border-color:black; 
+  color:black;
+  background-color:skyblue;
+ 
+}
+.text{
+  border-radius: 5px;
+}
+.img{
+  height:70vh;
+}
+.head{
+  padding:50px;
+  height:300px;
+}
+.caption{
+  background-color: GREY;
+}
+.top{
+  background-image: url("greatdelas.jpg");
+    height:50vh;
+    width:100vw;
+    background-size:cover;
+    
+}
+.bottom{
+  height:50vh;
+  width:50vw;
+  background-color:white;
+  text-align: center;
+  
+}
+.card2{
+  height:50vh;
+  width:50vw;
+ background-color: white;
+
+
+}
+.bg-new{
+  height:50vh;
+  width:15vw;
+  
+  
+}
+.btn2{
+  float:right;
+}
+.home{
+  height:40vh;
+  background-color: cornflowerblue;
+  font-size: x-large;
+  padding:50px;
+}
+.img4{
+  height:150px;
+  width:150px;
+}
+.ig{
+  height:150px;
+  width:150px;
+}
+
